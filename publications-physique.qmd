@@ -1,0 +1,13 @@
+---
+title: "Publications de physique"
+subtitle: "Dynamique des fluides géophysiques et océanographie physique"
+bibliography: bib/publi_perso.bib
+csl: https://www.zotero.org/styles/apa
+nocite: |
+  @*
+---
+
+Travaux menés avant ma réorientation vers l'économie. Retour aux [publications d'économie](publications.qmd).
+
+::: {#refs}
+:::

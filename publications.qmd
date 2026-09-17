@@ -1,0 +1,13 @@
+---
+title: "Publications"
+subtitle: "Économie et politiques publiques"
+bibliography: bib/publi_perso_eco.bib
+csl: https://www.zotero.org/styles/apa
+nocite: |
+  @*
+---
+
+Liste également disponible sur [ResearchGate](https://www.researchgate.net/profile/Mahdi-Ben-Jelloul/research). Mes [publications de physique](publications-physique.qmd) sont sur une page séparée.
+
+::: {#refs}
+:::

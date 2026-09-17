@@ -1,0 +1,43 @@
+---
+title: "Modélisation, simulateurs et projections"
+subtitle: "Mahdi Ben Jelloul — économiste et développeur Python"
+---
+
+::: {.accroche}
+Je conçois des modèles de calcul et de projection pour des organisations qui doivent **chiffrer une réforme, simuler des droits ou anticiper une dépense**. Mon métier consiste à traduire des règles — textes de loi, conventions, barèmes — en code fiable et testé, puis à en tirer des chiffres sur lesquels on peut décider.
+:::
+
+J'ai participé à la création du logiciel libre [OpenFisca](https://openfisca.org/fr/), qui fait tourner des simulateurs publics comme *Mes droits sociaux* et *1jeune1solution*. J'ai été économiste dix ans à l'[Institut des politiques publiques](https://www.ipp.eu), puis à l'Assemblée nationale (LexImpact), avant de travailler en conseil, notamment pour la Banque mondiale.
+
+::: {.cartes}
+::: {.carte}
+### Simulateurs et calculateurs
+Aides, droits, cotisations, impôts, primes : des règles complexes traduites en un moteur de calcul testé et documenté.
+:::
+
+::: {.carte}
+### Chiffrage et études d'impact
+Coût d'une mesure, effets d'un changement de barème, comparaison de scénarios, effets redistributifs.
+:::
+
+::: {.carte}
+### Projections
+Masse salariale et effectifs, dépenses, régimes de retraite ou de prévoyance, populations.
+:::
+
+::: {.carte}
+### Données et formation
+Exploitation de fichiers administratifs ou d'enquête, applications web de simulation, formation Python pour vos équipes.
+:::
+:::
+
+[Voir les prestations](prestations.qmd){.btn .btn-primary} [Voir les projets](projets.qmd){.btn .btn-outline-primary}
+
+## Me contacter
+
+Missions à distance ou à Paris.
+
+- Courriel : [mahdi.benjelloul@gmail.com](mailto:mahdi.benjelloul@gmail.com)
+- LinkedIn : [mahdi-ben-jelloul](https://www.linkedin.com/in/mahdi-ben-jelloul-406295103/)
+- Code : [github.com/benjello](https://github.com/benjello)
+- CV : [version courte (PDF)](assets/cv-mahdi-ben-jelloul.pdf) · [version académique (PDF)](assets/cv-academique-mahdi-ben-jelloul.pdf)

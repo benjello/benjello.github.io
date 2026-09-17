@@ -1,0 +1,35 @@
+---
+title: "Modelling, simulators and budget projections"
+subtitle: "Mahdi Ben Jelloul — economist and Python developer"
+lang: en
+---
+
+::: {.accroche}
+I build calculation and projection models for organisations that need to **cost a reform, simulate entitlements or anticipate spending**. My work consists in translating rules — legislation, collective agreements, rate schedules — into reliable, tested code, and turning it into figures people can decide on.
+:::
+
+I took part in creating the open-source software [OpenFisca](https://openfisca.org/en/), which powers French public benefit simulators such as *Mes droits sociaux* and *1jeune1solution*. I spent ten years as an economist at the [Institut des politiques publiques](https://www.ipp.eu/en/), then at the French National Assembly (LexImpact), before working as a consultant, notably for the World Bank.
+
+## What I do
+
+- **Simulators and calculation engines** — benefits, entitlements, social contributions, taxes, bonuses: complex rules turned into a tested, documented engine.
+- **Costing and impact assessment** — budgetary cost of a measure, effects of a change in rates or thresholds, distributional analysis, scenario comparison.
+- **Projections** — payroll and headcount, spending, pension or insurance schemes, populations.
+- **Data and training** — administrative and survey data, web simulation apps, Python training for your teams.
+
+## Background
+
+- **2014–2024** — Economist, Institut des politiques publiques: microsimulation of taxes, benefits and pensions (OpenFisca France, TAXIPP models), costing of budget bills, long-term care projections, fiscal incidence in West Africa.
+- **2023** — Economist, French National Assembly (LexImpact).
+- **2009–2014** — Economist, France Stratégie (Prime Minister's policy office): creation of OpenFisca.
+- **2001–2008** — Physical oceanographer: assistant professor (Université de Bretagne Occidentale), postdoctoral fellow (Woods Hole, CNRS).
+- **Education** — MSc in Economics (Paris School of Economics), PhD in Physics (Université Paris VI – ENS).
+
+## Contact
+
+Remote or Paris-based assignments.
+
+- Email: [mahdi.benjelloul@gmail.com](mailto:mahdi.benjelloul@gmail.com)
+- LinkedIn: [mahdi-ben-jelloul](https://www.linkedin.com/in/mahdi-ben-jelloul-406295103/)
+- Code: [github.com/benjello](https://github.com/benjello)
+- CV: [short CV (PDF)](../assets/cv-mahdi-ben-jelloul-en.pdf) · [publications](../publications.qmd)

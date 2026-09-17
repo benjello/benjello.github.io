@@ -1,0 +1,71 @@
+---
+title: "Prestations"
+---
+
+## Construire un simulateur ou un moteur de calcul
+
+Vous appliquez des règles complexes — barèmes, conventions, textes réglementaires — et vous avez besoin d'un calcul juste, reproductible et vérifiable.
+
+- Lecture des textes et formalisation des règles, y compris leurs zones d'ambiguïté
+- Développement d'un moteur de calcul en Python, testé sur des cas réels
+- Gestion des paramètres dans le temps : taux, plafonds, barèmes, versions successives de la législation
+- Documentation, tests et transfert de compétences à vos équipes
+
+*Exemples : simulateur d'aides ou de droits, calcul de cotisations ou d'impôt, moteur de règles de paie ou de garanties.*
+
+## Chiffrer une réforme ou une mesure
+
+Vous devez estimer ce que coûte une mesure, qui elle touche et comment elle se compare à d'autres options.
+
+- Estimation du coût budgétaire et du nombre de bénéficiaires
+- Analyse des effets redistributifs : gagnants et perdants, par niveau de vie ou par catégorie
+- Comparaison de scénarios, tests de sensibilité
+- Notes de synthèse lisibles par des non-spécialistes
+
+## Projeter une dépense ou une population
+
+Vous voulez savoir de quoi demain sera fait : effectifs, masse salariale, dépenses, engagements.
+
+- Projection de masse salariale et d'effectifs, y compris les effets de carrière
+- Projection de dépenses ou de régimes (retraite, prévoyance, aides)
+- Projection de populations, notamment les besoins liés au vieillissement
+- Scénarios et variantes, documentés et rejouables
+
+## Exploiter vos données
+
+- Traitement de fichiers administratifs ou d'enquête : appariement, redressement, contrôle de cohérence
+- Automatisation de chaînes de traitement aujourd'hui tenues sous Excel
+- Applications web de simulation (Shiny for Python) pour que vos équipes métier testent elles-mêmes des scénarios
+
+## Former vos équipes
+
+- Python pour économistes, statisticiens, analystes et contrôleurs de gestion
+- Microsimulation et modélisation des politiques publiques
+- Bonnes pratiques : tests, versionnement, reproductibilité
+
+J'enseigne la programmation Python à l'École d'économie de Paris depuis 2023, et la microsimulation des politiques publiques de 2017 à 2023.
+
+## Ce que l'IA change, et ce qu'elle ne change pas
+
+Les assistants de code accélèrent réellement deux étapes : **transcrire un texte réglementaire en code** et **fabriquer une application sur mesure** pour visualiser des résultats. Ce qui prenait des semaines se fait aujourd'hui en quelques jours.
+
+Mais un moteur de calcul écrit vite n'a aucune valeur tant qu'il n'est pas **vérifié**. La transcription d'une loi comporte toujours des choix d'interprétation, et une erreur de règle ne se voit pas dans le code : elle se voit dans les chiffres.
+
+D'où ma façon de travailler : confronter systématiquement le modèle à des **données micro administratives** — cas réels, dossiers, fichiers de gestion ou de paie — et le corriger jusqu'à ce qu'il reproduise ce qui est réellement versé ou prélevé. C'est cette confrontation, et non la vitesse d'écriture, qui fait la différence entre un prototype et un modèle sur lequel on peut fonder une décision.
+
+Concrètement : si vous disposez de vos propres données de gestion, on peut aller beaucoup plus vite qu'il y a trois ans. Sinon, la première étape consiste à trouver de quoi valider.
+
+## Comment je travaille
+
+1. **Cadrage** : vos règles, vos données, ce que vous devez décider.
+2. **Prototype** : un premier modèle sur un périmètre restreint, pour valider l'approche.
+3. **Construction** : le modèle complet, avec ses tests et sa documentation.
+4. **Transfert** : vos équipes savent le faire tourner, le modifier et le maintenir.
+
+Je livre du code ouvert et documenté, sans dépendance à un outil propriétaire.
+
+## Travailler ensemble
+
+Missions à distance ou à Paris, ponctuelles ou récurrentes.
+
+Écrivez-moi à [mahdi.benjelloul@gmail.com](mailto:mahdi.benjelloul@gmail.com) en décrivant votre besoin en quelques lignes : je vous dis rapidement si je peux aider, et comment.

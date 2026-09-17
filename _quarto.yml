@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mahdi Ben Jelloul"
+  description: "Modélisation, simulateurs et projections budgétaires"
+  site-url: "https://benjello.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: prestations.qmd
+        text: Prestations
+      - href: projets.qmd
+        text: Projets
+      - href: parcours.qmd
+        text: Parcours
+      - href: publications.qmd
+        text: Publications
+      - href: en/index.qmd
+        text: English
+    right:
+      - icon: github
+        href: https://github.com/benjello
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/mahdi-ben-jelloul-406295103/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:mahdi.benjelloul@gmail.com
+        aria-label: Courriel
+  page-footer:
+    center: "Mahdi Ben Jelloul — [mahdi.benjelloul@gmail.com](mailto:mahdi.benjelloul@gmail.com)"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+
+lang: fr
