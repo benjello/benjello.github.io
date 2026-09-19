@@ -172,7 +172,7 @@
     "href": "projets.html#microsimulation-à-lipp",
     "title": "Projets",
     "section": "Microsimulation à l’IPP",
-    "text": "Microsimulation à l’IPP\n\nTAXIPP et TAXIPP-Life : modèles de microsimulation utilisés pour chiffrer les projets de loi de finances et des réformes comme le revenu de base ou la prise en charge de la dépendance.\nProjections de la population dépendante, dans le cadre de la chaire dépendance de l’École d’économie de Paris, publiées par l’INSEE.\nModèle de microsimulation dynamique des retraites complémentaires Agirc-Arrco."
+    "text": "Microsimulation à l’IPP\n\nTAXIPP et TAXIPP-Life : modèles de microsimulation utilisés pour chiffrer les projets de loi de finances et des réformes comme le revenu de base ou la prise en charge de la dépendance. Les chiffrages produits avec TAXIPP, qui s’appuie sur OpenFisca, sont présentés à la conférence budget de l’IPP, en présence de membres de la commission des finances, lors de la discussion du budget.\nProjections de la population dépendante, dans le cadre de la chaire dépendance de l’École d’économie de Paris, publiées par l’INSEE.\nModèle de microsimulation dynamique des retraites complémentaires Agirc-Arrco."
   },
   {
     "objectID": "projets.html#leximpact",
